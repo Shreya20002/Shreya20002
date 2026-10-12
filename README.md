@@ -19,39 +19,39 @@
 
 ---
 
-## 👩‍💻 About me
+## About me
 
-- 💼 **Founder & Software Engineer at [Skimora](#-building-now-skimora)**, a Chrome extension for easier reading that I designed, built and shipped on my own. It won its first 2 paying customers in launch week.
-- 🛠️ I build **full-stack web apps, REST APIs and AI/LLM-powered tools**, mostly in **Python, TypeScript/JavaScript and Go**, plus **Solidity** for smart contracts.
-- 🧮 **Data structures & algorithms:** [654 LeetCode problems solved](https://leetcode.com/u/Shhh123/) (371 Medium, 109 Hard), with a 1,702 contest rating (top 14%).
-- 🧩 **How I work:** I break a problem into small, testable pieces. I reproduce a bug with a failing test before I fix it. I write up my changes so reviewers can follow them.
-- 🌱 **Currently exploring:** multi-agent LLM workflows and smart-contract security.
-- 🤝 **I learn whatever the problem needs.** So far that's five languages, plus relational and NoSQL databases, across 40+ public repositories.
+- **Founder & Software Engineer at [Skimora](#building-now-skimora)**, a Chrome extension for easier reading that I designed, built and shipped on my own. It won its first 2 paying customers in launch week.
+- I build **full-stack web apps, REST APIs and AI/LLM-powered tools**, mostly in **Python, TypeScript/JavaScript and Go**, plus **Solidity** for smart contracts.
+- **Data structures & algorithms:** [654 LeetCode problems solved](https://leetcode.com/u/Shhh123/) (371 Medium, 109 Hard), with a 1,702 contest rating (top 14%).
+- **How I work:** I break a problem into small, testable pieces. I reproduce a bug with a failing test before I fix it. I write up my changes so reviewers can follow them.
+- **Currently exploring:** multi-agent LLM workflows and smart-contract security.
+- **I learn whatever the problem needs.** So far that's five languages, plus relational and NoSQL databases, across 40+ public repositories.
 
-## 🏆 Achievements
+## Achievements
 
 | Achievement | Result |
 |---|---|
-| 🥇 **Walmart Women Code to Win 2024** | Finalist, top 300 of 98,000+ participants |
-| 🏅 **Google Girl Hackathon 2023** | Finalist |
-| 🎓 **Amazon ML Summer School 2023** | Selected from 100,000+ applicants |
-| 🤖 **Google AI PromptWars Hackathon 2026** (Hack2skill) | Top 30 |
+| **Walmart Women Code to Win 2024** | Finalist, top 300 of 98,000+ participants |
+| **Google Girl Hackathon 2023** | Finalist |
+| **Amazon ML Summer School 2023** | Selected from 100,000+ applicants |
+| **Google AI PromptWars Hackathon 2026** (Hack2skill) | Top 30 |
 
-## 🎯 What I bring
+## What I bring
 
 | Skill | Where you can see it |
 |---|---|
-| **Software engineering fundamentals** | [Skimora](#-building-now-skimora): replaced a bolding algorithm duplicated across 5 modules with one shared tokenizer, and added an event bus that isolates each feature's domain. [students-go](https://github.com/Shreya20002/students-go): a layered Go REST API (config → handlers → storage interface). [connect #947](https://github.com/commaai/connect/pull/947): replaced six scattered URL getters with one parser/builder pair, tested as round trips |
+| **Software engineering fundamentals** | [Skimora](#building-now-skimora): replaced a bolding algorithm duplicated across 5 modules with one shared tokenizer, and added an event bus that isolates each feature's domain. [students-go](https://github.com/Shreya20002/students-go): a layered Go REST API (config → handlers → storage interface). [connect #947](https://github.com/commaai/connect/pull/947): replaced six scattered URL getters with one parser/builder pair, tested as round trips |
 | **Modern languages** | Python · TypeScript / JavaScript · Go · Solidity · SQL |
-| **Data structures & problem solving** | [LeetCode](https://leetcode.com/u/Shhh123/): 654 problems solved (174 Easy, 371 Medium, 109 Hard), contest rating 1,702, top 14%. [Skimora](#-building-now-skimora): a two-tier LRU / IndexedDB cache behind virtualized PDF and EPUB rendering, plus 90-day rolling reading-speed analytics. [csv-json-api](https://github.com/Shreya20002/csv-json-api): a hand-written CSV parser (quoted fields, nested `a.b.c` keys) that loads 50k+ rows in chunks. [connect #947](https://github.com/commaai/connect/pull/947): split into 7 commits that each build, pass and do one thing |
-| **APIs & databases** | Supabase Edge Functions (Deno) + an RLS-secured Postgres schema with per-IP rate limiting ([Skimora](#-building-now-skimora)) · FastAPI + PostgreSQL + Alembic migrations ([inventory dashboard](https://github.com/Shreya20002/ai_inventory_predictor)) · Go + SQLite ([students-go](https://github.com/Shreya20002/students-go)) · Express + MongoDB + Redis rate limiting ([mindboard](https://github.com/Shreya20002/mindboard)) · Node + PostgreSQL transactions ([csv-json-api](https://github.com/Shreya20002/csv-json-api)) |
+| **Data structures & problem solving** | [LeetCode](https://leetcode.com/u/Shhh123/): 654 problems solved (174 Easy, 371 Medium, 109 Hard), contest rating 1,702, top 14%. [Skimora](#building-now-skimora): a two-tier LRU / IndexedDB cache behind virtualized PDF and EPUB rendering, plus 90-day rolling reading-speed analytics. [csv-json-api](https://github.com/Shreya20002/csv-json-api): a hand-written CSV parser (quoted fields, nested `a.b.c` keys) that loads 50k+ rows in chunks. [connect #947](https://github.com/commaai/connect/pull/947): split into 7 commits that each build, pass and do one thing |
+| **APIs & databases** | Supabase Edge Functions (Deno) + an RLS-secured Postgres schema with per-IP rate limiting ([Skimora](#building-now-skimora)) · FastAPI + PostgreSQL + Alembic migrations ([inventory dashboard](https://github.com/Shreya20002/ai_inventory_predictor)) · Go + SQLite ([students-go](https://github.com/Shreya20002/students-go)) · Express + MongoDB + Redis rate limiting ([mindboard](https://github.com/Shreya20002/mindboard)) · Node + PostgreSQL transactions ([csv-json-api](https://github.com/Shreya20002/csv-json-api)) |
 | **Automated testing** | Foundry unit, integration and fuzz tests ([AegisHook](https://github.com/Shreya20002/ageishook), [15DaysOfFoundry](https://github.com/Shreya20002/15DaysOfFoundry)) · a failing test written for each of 5 bugs, growing the suite from 96 to 102 tests ([connect #947](https://github.com/commaai/connect/pull/947)) |
 | **Cloud & deployment** | Supabase (Edge Functions, Postgres), Vercel (including edge functions), Render |
-| **AI / LLM applications** | An AI summarizer in progress for [Skimora](#-building-now-skimora) · multi-agent pipelines ([vibenews](https://github.com/Shreya20002/vibenews), [AI Meme Generator](https://github.com/Shreya20002/AI_Agent_Meme_Generator)) · Claude and OpenAI APIs · streamed, structured JSON output |
-| **Ownership & working independently** | Took [Skimora](#-building-now-skimora) from idea to launch on my own (architecture, UI/UX, backend, payments and licensing) and won its first 2 paying customers in launch week |
+| **AI / LLM applications** | An AI summarizer in progress for [Skimora](#building-now-skimora) · multi-agent pipelines ([vibenews](https://github.com/Shreya20002/vibenews), [AI Meme Generator](https://github.com/Shreya20002/AI_Agent_Meme_Generator)) · Claude and OpenAI APIs · streamed, structured JSON output |
+| **Ownership & working independently** | Took [Skimora](#building-now-skimora) from idea to launch on my own (architecture, UI/UX, backend, payments and licensing) and won its first 2 paying customers in launch week |
 | **Git & written communication** | Daily Git/GitHub use across 40+ repos · detailed PR write-ups and READMEs ([connect #947](https://github.com/commaai/connect/pull/947), [Screen Time Tracker](https://github.com/Shreya20002/productivity_tracker)) |
 
-## 📖 Building now: Skimora
+## Building now: Skimora
 
 **Founder & Software Engineer · [Skimora](https://skimora.net) · 5 months · solo**
 
@@ -75,13 +75,13 @@
 
 | Status | Feature |
 |---|---|
-| 🚧 In progress | **AI-powered summarizer** |
-| 🔜 Planned | **Text-to-speech**, so readers can listen to their documents |
-| 🔜 Planned | **Cloud sync** across devices |
+| In progress | **AI-powered summarizer** |
+| Planned | **Text-to-speech**, so readers can listen to their documents |
+| Planned | **Cloud sync** across devices |
 
 `pdf.js` `epub.js` `IndexedDB` `Supabase Edge Functions` `Deno` `PostgreSQL + RLS` `Dodo Payments`
 
-## 🌟 Open-source spotlight
+## Open-source spotlight
 
 ### [commaai/connect #947](https://github.com/commaai/connect/pull/947): every page and dialog is a link, and 5 navigation bugs are gone
 
@@ -93,43 +93,43 @@
 
 `React` `Redux` `JavaScript` `Testing` `Refactoring`
 
-## 🚀 Featured projects
+## Featured projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>📦 <a href="https://github.com/Shreya20002/ai_inventory_predictor">AI Inventory &amp; Demand Dashboard</a></h3>
+      <h3><a href="https://github.com/Shreya20002/ai_inventory_predictor">AI Inventory &amp; Demand Dashboard</a></h3>
       <p>Finds dead stock in real retail data (UCI Online Retail) and estimates the revenue at risk. A scikit-learn Random Forest scores every item and stores its predictions in PostgreSQL. A FastAPI endpoint serves them to a Next.js dashboard.</p>
       <p><code>Next.js</code> <code>FastAPI</code> <code>PostgreSQL</code> <code>SQLAlchemy</code> <code>Alembic</code> <code>scikit-learn</code></p>
     </td>
     <td width="50%" valign="top">
-      <h3>⏱️ <a href="https://github.com/Shreya20002/productivity_tracker">Screen Time Tracker</a></h3>
+      <h3><a href="https://github.com/Shreya20002/productivity_tracker">Screen Time Tracker</a></h3>
       <p>A private, offline terminal app that records which app you're using and for how long, with daily, weekly and all-time reports. It uses only Python's standard library, so there are no dependencies, and it runs on Windows, macOS and Linux.</p>
       <p><code>Python</code> <code>Cross-platform</code> <code>CLI</code> <code>Privacy-first</code></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🛡️ <a href="https://github.com/Shreya20002/ageishook">AegisHook</a></h3>
+      <h3><a href="https://github.com/Shreya20002/ageishook">AegisHook</a></h3>
       <p>A security-as-a-service hook for Uniswap v4, built for the Uniswap Hook Incubator. It raises an on-chain alert when it sees a suspicious swap, and a Reactive contract then pauses the affected pool automatically. The repo includes a Foundry test suite and a Next.js dashboard.</p>
       <p><code>Solidity</code> <code>Foundry</code> <code>Next.js</code> <code>Ethers.js</code></p>
-      <p>🔗 <a href="https://ageishook.vercel.app">Live demo</a></p>
+      <p><a href="https://ageishook.vercel.app">Live demo</a></p>
     </td>
     <td width="50%" valign="top">
-      <h3>🤖 <a href="https://github.com/Shreya20002/AI_Agent_Meme_Generator">AI Agent Meme Generator</a></h3>
+      <h3><a href="https://github.com/Shreya20002/AI_Agent_Meme_Generator">AI Agent Meme Generator</a></h3>
       <p>An agent that turns a text prompt into a meme. It picks a fitting template, writes the captions and drives imgflip.com through browser automation. It then checks the result and retries if generation fails. You can switch between Claude, GPT-4o and DeepSeek.</p>
       <p><code>Python</code> <code>Streamlit</code> <code>LLM agents</code> <code>Browser automation</code></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🧠 <a href="https://github.com/Shreya20002/mindAI">MindAI</a></h3>
+      <h3><a href="https://github.com/Shreya20002/mindAI">MindAI</a></h3>
       <p>A mood journal for students preparing for exams. You log how you feel each day, follow your mood on a chart, and get a reflection from Claude. The Claude call runs in a serverless edge function, so the API key never reaches the browser.</p>
       <p><code>React</code> <code>Vite</code> <code>Tailwind</code> <code>Recharts</code> <code>Claude API</code> <code>Vercel Edge</code></p>
-      <p>🔗 <a href="https://mind-ai-ttyx.vercel.app">Live demo</a></p>
+      <p><a href="https://mind-ai-ttyx.vercel.app">Live demo</a></p>
     </td>
     <td width="50%" valign="top">
-      <h3>🎤 <a href="https://github.com/Shreya20002/vibenews">VibeNews</a></h3>
+      <h3><a href="https://github.com/Shreya20002/vibenews">VibeNews</a></h3>
       <p>A two-agent pipeline. A researcher agent pulls the five latest headlines with Perplexity and Firecrawl. A writer agent then fuses them into one rapid-fire, Eminem-style verse.</p>
       <p><code>Python</code> <code>AgentStack</code> <code>GPT-4o</code> <code>Perplexity</code> <code>Firecrawl</code></p>
     </td>
@@ -137,7 +137,7 @@
 </table>
 
 <details>
-<summary><b>🗂️ More projects</b> (click to expand)</summary>
+<summary><b>More projects</b> (click to expand)</summary>
 <br>
 
 **Backend & APIs**
@@ -161,7 +161,7 @@
 
 </details>
 
-## 🧰 Tech stack
+## Tech stack
 
 <table>
   <tr>
@@ -195,7 +195,7 @@
   </tr>
 </table>
 
-## 🧮 Problem solving
+## Problem solving
 
 <p align="center">
   <a href="https://leetcode.com/u/Shhh123/">
@@ -206,7 +206,7 @@
   </a>
 </p>
 
-## 📊 GitHub activity
+## GitHub activity
 
 <p align="center">
   <picture>
@@ -230,7 +230,7 @@
 
 <div align="center">
 
-### 💬 Let's talk
+### Let's talk
 
 I'm **open to software engineering roles** and I'd love to hear what your team is building.<br>
 The fastest way to reach me is **[shreyakapoor2890@gmail.com](mailto:shreyakapoor2890@gmail.com)**.
