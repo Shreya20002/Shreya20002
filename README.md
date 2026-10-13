@@ -53,7 +53,7 @@
 
 ## Building now: Skimora
 
-**Founder & Software Engineer · [Skimora](https://skimora.net) · 5 months · solo**
+**Founder & Software Engineer · [Skimora](https://skimora.net) · July 2026 – present · solo**
 
 <p>
   <a href="https://skimora.net"><img src="https://img.shields.io/badge/Live-skimora.net-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit skimora.net"></a>
